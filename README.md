@@ -1,5 +1,5 @@
 # ball-fling
-Python ball throwing model.
+Python based ball throwing model with calculations and graph.
 
 Language: Python 3.8
 
