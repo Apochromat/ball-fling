@@ -1,7 +1,4 @@
 #   Ball Fling
-#   by Markridge
-#   2020
-
 
 # Импорт
 import sys
